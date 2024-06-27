@@ -115,7 +115,7 @@ The above code is heavily based on the codebase of [NanoGPT](https://github.com/
 
 ## Citation
 
-If you find this code helpful, please cite our paper in the following format.
+If you find this code helpful, please cite paper in the following format.
 
 ```
 @article{zhang2024adam,
